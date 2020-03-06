@@ -1,1 +1,0 @@
-# Trid-Gather-Scatter-Optmized
